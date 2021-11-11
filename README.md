@@ -18,6 +18,10 @@ print(tint('Hello, [bold]world![/]'))
 From a shell:
 ```bash
 echo "Hello, [bold]world![/]" | tinted
+
+# OR
+
+tinted file.txt
 ```
 
 ## Basic syntax
