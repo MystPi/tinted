@@ -1,4 +1,5 @@
 # tinted
+![PyPI - Downloads](https://img.shields.io/pypi/dm/tinted) ![PyPI](https://img.shields.io/pypi/v/tinted) ![PyPI - License](https://img.shields.io/pypi/l/tinted) ![Python - Version](https://img.shields.io/badge/python-3%2B-yellow)
 
 Give your print output the tint it deserves! Give colors, styles, and more to the console, all with a simple markup language.
 
